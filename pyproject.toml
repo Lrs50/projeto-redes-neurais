@@ -14,4 +14,5 @@ dependencies = [
     "tqdm==4.67.1",
     "ucimlrepo==0.0.7",
     "xgboost==3.2.0",
+    "sdv>=1.18.0",
 ]
